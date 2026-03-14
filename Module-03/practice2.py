@@ -1,6 +1,6 @@
 # Write a program to check if a list contains a palindrome of elements (Hint use .copy()
 
-list1=[1,2,3,2,1]
+list1=[1,2,3,9,1]
 list2=list1.copy()
 list2.reverse()
 
