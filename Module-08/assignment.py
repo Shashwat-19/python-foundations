@@ -14,6 +14,7 @@ class product_store:
     def get_info(self):
         print(f"{self.name} is having the price of Rs{self.price}")
 
+
     @classmethod
     def get_count(self):
         return product_store.count
