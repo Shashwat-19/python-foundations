@@ -1,4 +1,4 @@
-# Propert Decorator
+# Property Decorator
 
 class Student:
     def __init__(self, phy, math, chem):
